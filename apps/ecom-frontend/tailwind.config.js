@@ -8,11 +8,11 @@ module.exports = {
     ...createGlobPatternsForDependencies(__dirname),
   ],
   theme: {
-    fontFamily:{
-      'sans': 'Inter var, ui-sans-serif, system-ui',
-      'serif': 'Inter var, ui-sans-serif, system-ui',
+    fontFamily: {
+      sans: 'Inter var, ui-sans-serif, system-ui',
+      serif: 'Inter var, ui-sans-serif, system-ui',
     },
-    fontSize:{
+    fontSize: {
       sm: '0.875rem',
       base: '1.3rem',
       xl: '1.55rem',
@@ -24,15 +24,15 @@ module.exports = {
     extend: {},
   },
   daisyui: {
-    themes:[
+    themes: [
       {
-        fantasy:{
+        fantasy: {
           primary: '#0000ff',
           'primary-content': 'white',
           secondary: '#F6F6F6',
           neutral: '#E8E8E8',
-        }
-      }
+        },
+      },
     ],
     base: true,
     styled: true,
