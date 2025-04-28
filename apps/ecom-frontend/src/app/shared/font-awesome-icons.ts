@@ -6,11 +6,15 @@ import {
   faTruckFast,
   faUser,
   faXmark,
+  faP,
+  faIdCard
 } from '@fortawesome/free-solid-svg-icons';
 import {
   faFacebook,
   faTwitter,
   faYoutube,
+  faLinkedin,
+  faGithub,
 } from '@fortawesome/free-brands-svg-icons';
 import { faCircleCheck } from '@fortawesome/free-regular-svg-icons';
 
@@ -25,4 +29,7 @@ export const fontAwesomeIcons: IconDefinition[] = [
   faCheck,
   faShoppingCart,
   faCircleCheck,
+  faLinkedin,
+  faGithub,
+  faIdCard,
 ];
