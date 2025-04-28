@@ -1,0 +1,145 @@
+{
+  "hash": "1ad1e2c5",
+  "configHash": "fee85fcc",
+  "lockfileHash": "6d99079c",
+  "browserHash": "29b10189",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "c4893c14",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "dd6b65d3",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ff7355e4",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "95397180",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "7f76c4c2",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "ce9cd26d",
+      "needsInterop": false
+    },
+    "@fortawesome/angular-fontawesome": {
+      "src": "../../../../../node_modules/@fortawesome/angular-fontawesome/fesm2022/angular-fontawesome.mjs",
+      "file": "@fortawesome_angular-fontawesome.js",
+      "fileHash": "174c9613",
+      "needsInterop": false
+    },
+    "@fortawesome/free-brands-svg-icons": {
+      "src": "../../../../../node_modules/@fortawesome/free-brands-svg-icons/index.mjs",
+      "file": "@fortawesome_free-brands-svg-icons.js",
+      "fileHash": "20992860",
+      "needsInterop": false
+    },
+    "@fortawesome/free-regular-svg-icons": {
+      "src": "../../../../../node_modules/@fortawesome/free-regular-svg-icons/index.mjs",
+      "file": "@fortawesome_free-regular-svg-icons.js",
+      "fileHash": "aae5f36d",
+      "needsInterop": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../../../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "664f8e2f",
+      "needsInterop": false
+    },
+    "@tanstack/angular-query-experimental": {
+      "src": "../../../../../node_modules/@tanstack/angular-query-experimental/build/fesm2022/tanstack-angular-query-experimental.mjs",
+      "file": "@tanstack_angular-query-experimental.js",
+      "fileHash": "c9806ddf",
+      "needsInterop": false
+    },
+    "angular-auth-oidc-client": {
+      "src": "../../../../../node_modules/angular-auth-oidc-client/fesm2022/angular-auth-oidc-client.mjs",
+      "file": "angular-auth-oidc-client.js",
+      "fileHash": "43d068a3",
+      "needsInterop": false
+    },
+    "ngx-stripe": {
+      "src": "../../../../../node_modules/ngx-stripe/fesm2022/ngx-stripe.mjs",
+      "file": "ngx-stripe.js",
+      "fileHash": "0c069969",
+      "needsInterop": false
+    },
+    "ngxtension/click-outside": {
+      "src": "../../../../../node_modules/ngxtension/fesm2022/ngxtension-click-outside.mjs",
+      "file": "ngxtension_click-outside.js",
+      "fileHash": "e122e48d",
+      "needsInterop": false
+    },
+    "ngxtension/control-error": {
+      "src": "../../../../../node_modules/ngxtension/fesm2022/ngxtension-control-error.mjs",
+      "file": "ngxtension_control-error.js",
+      "fileHash": "cd1efbbd",
+      "needsInterop": false
+    },
+    "ngxtension/inject-params": {
+      "src": "../../../../../node_modules/ngxtension/fesm2022/ngxtension-inject-params.mjs",
+      "file": "ngxtension_inject-params.js",
+      "fileHash": "af7ae7e7",
+      "needsInterop": false
+    },
+    "ngxtension/inject-query-params": {
+      "src": "../../../../../node_modules/ngxtension/fesm2022/ngxtension-inject-query-params.mjs",
+      "file": "ngxtension_inject-query-params.js",
+      "fileHash": "0fddfab8",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "77b82321",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-7Z7IUP23": {
+      "file": "chunk-7Z7IUP23.js"
+    },
+    "chunk-Y33LYUQV": {
+      "file": "chunk-Y33LYUQV.js"
+    },
+    "chunk-K7W3UN3E": {
+      "file": "chunk-K7W3UN3E.js"
+    },
+    "chunk-Q3SR6UOA": {
+      "file": "chunk-Q3SR6UOA.js"
+    },
+    "chunk-GUN7VAH6": {
+      "file": "chunk-GUN7VAH6.js"
+    },
+    "chunk-X3E7OF3P": {
+      "file": "chunk-X3E7OF3P.js"
+    },
+    "chunk-KX4LG3VE": {
+      "file": "chunk-KX4LG3VE.js"
+    },
+    "chunk-SZFLBOQ6": {
+      "file": "chunk-SZFLBOQ6.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}
