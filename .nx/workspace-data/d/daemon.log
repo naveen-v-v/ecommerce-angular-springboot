@@ -81,3 +81,15 @@
 [NX Daemon Server] - 2025-04-28T14:52:39.351Z - Time taken for 'total execution time for createProjectGraph()' 28.171707999999853ms
 [NX Daemon Server] - 2025-04-28T14:53:40.966Z - [WATCHER]: Processing file changes in outputs
 [NX Daemon Server] - 2025-04-28T14:53:43.112Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T14:55:49.029Z - [WATCHER]: apps/ecom-backend was deleted
+[NX Daemon Server] - 2025-04-28T14:55:49.034Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T14:55:49.240Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T14:55:49.240Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T14:55:49.240Z - [REQUEST]: apps/ecom-backend
+[NX Daemon Server] - 2025-04-28T14:55:49.254Z - Time taken for 'hash changed files from watcher' 2.284542000008514ms
+[NX Daemon Server] - 2025-04-28T14:55:49.295Z - Time taken for 'build-project-configs' 38.10908399999607ms
+[NX Daemon Server] - 2025-04-28T14:55:49.316Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 25.825125000003027ms
+[NX Daemon Server] - 2025-04-28T14:55:49.357Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T14:55:49.357Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T14:55:49.357Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T14:55:49.357Z - Time taken for 'total execution time for createProjectGraph()' 63.86737500000163ms
