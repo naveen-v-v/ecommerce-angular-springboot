@@ -451,3 +451,18 @@
 [NX Daemon Server] - 2025-04-28T15:27:52.495Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
 [NX Daemon Server] - 2025-04-28T15:27:52.495Z - [SYNC]: scheduling: []
 [NX Daemon Server] - 2025-04-28T15:27:52.495Z - Time taken for 'total execution time for createProjectGraph()' 34.57129100011662ms
+[NX Daemon Server] - 2025-04-28T15:28:54.368Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:28:54.372Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:28:54.811Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:28:54.811Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:29:00.778Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:29:00.779Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:29:00.779Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:29:00.787Z - Time taken for 'hash changed files from watcher' 2.0653749997727573ms
+[NX Daemon Server] - 2025-04-28T15:29:00.823Z - Time taken for 'build-project-configs' 31.776374999899417ms
+[NX Daemon Server] - 2025-04-28T15:29:00.829Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 10.1926249996759ms
+[NX Daemon Server] - 2025-04-28T15:29:00.862Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:29:00.862Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:29:00.862Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:29:00.862Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:29:00.862Z - Time taken for 'total execution time for createProjectGraph()' 39.059375000186265ms
