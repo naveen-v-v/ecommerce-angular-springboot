@@ -220,3 +220,234 @@
 [NX Daemon Server] - 2025-04-28T15:03:08.482Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
 [NX Daemon Server] - 2025-04-28T15:03:08.482Z - [SYNC]: scheduling: []
 [NX Daemon Server] - 2025-04-28T15:03:08.482Z - Time taken for 'total execution time for createProjectGraph()' 23.260249999933876ms
+[NX Daemon Server] - 2025-04-28T15:05:42.460Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:05:42.462Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:05:43.049Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:05:43.049Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:05:43.266Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:05:43.266Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:05:43.266Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:05:43.274Z - Time taken for 'hash changed files from watcher' 2.851541999960318ms
+[NX Daemon Server] - 2025-04-28T15:05:43.371Z - Time taken for 'build-project-configs' 81.87316700001247ms
+[NX Daemon Server] - 2025-04-28T15:05:43.382Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 22.224249999970198ms
+[NX Daemon Server] - 2025-04-28T15:05:43.414Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:05:43.414Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:05:43.414Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:05:43.414Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:05:43.414Z - Time taken for 'total execution time for createProjectGraph()' 53.2669590000296ms
+[NX Daemon Server] - 2025-04-28T15:06:10.004Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:06:10.004Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:06:10.437Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:06:10.438Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:06:11.608Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:06:11.609Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:06:11.609Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:06:11.613Z - Time taken for 'hash changed files from watcher' 1.1188330000732094ms
+[NX Daemon Server] - 2025-04-28T15:06:11.641Z - Time taken for 'build-project-configs' 23.63895799999591ms
+[NX Daemon Server] - 2025-04-28T15:06:11.645Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 8.805083999992348ms
+[NX Daemon Server] - 2025-04-28T15:06:11.678Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:06:11.678Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:06:11.678Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:06:11.678Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:06:11.678Z - Time taken for 'total execution time for createProjectGraph()' 36.01791699999012ms
+[NX Daemon Server] - 2025-04-28T15:13:55.992Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:13:55.996Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:13:56.527Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:13:56.527Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:13:59.205Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:13:59.205Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:13:59.205Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:13:59.218Z - Time taken for 'hash changed files from watcher' 4.94420799985528ms
+[NX Daemon Server] - 2025-04-28T15:13:59.245Z - Time taken for 'build-project-configs' 22.713332999963313ms
+[NX Daemon Server] - 2025-04-28T15:13:59.250Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 8.874125000089407ms
+[NX Daemon Server] - 2025-04-28T15:13:59.273Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:13:59.273Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:13:59.273Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:13:59.273Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:13:59.273Z - Time taken for 'total execution time for createProjectGraph()' 28.36174999992363ms
+[NX Daemon Server] - 2025-04-28T15:19:08.472Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:19:08.476Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:08.968Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:08.972Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:19:14.885Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:19:14.885Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:19:14.885Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:19:14.892Z - Time taken for 'hash changed files from watcher' 3.7466669999994338ms
+[NX Daemon Server] - 2025-04-28T15:19:14.924Z - Time taken for 'build-project-configs' 27.149959000060335ms
+[NX Daemon Server] - 2025-04-28T15:19:14.934Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 14.520415999926627ms
+[NX Daemon Server] - 2025-04-28T15:19:14.978Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:19:14.978Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:19:14.978Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:19:14.978Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:19:14.978Z - Time taken for 'total execution time for createProjectGraph()' 53.495249999919906ms
+[NX Daemon Server] - 2025-04-28T15:19:20.106Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:19:20.106Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:20.543Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:19:20.543Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:26.513Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:19:26.513Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:19:26.513Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:19:26.519Z - Time taken for 'hash changed files from watcher' 1.4478750000707805ms
+[NX Daemon Server] - 2025-04-28T15:19:26.558Z - Time taken for 'build-project-configs' 35.405416999943554ms
+[NX Daemon Server] - 2025-04-28T15:19:26.570Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 16.05450000008568ms
+[NX Daemon Server] - 2025-04-28T15:19:26.594Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:19:26.594Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:19:26.595Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:19:26.595Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:19:26.595Z - Time taken for 'total execution time for createProjectGraph()' 37.089124999940395ms
+[NX Daemon Server] - 2025-04-28T15:19:36.516Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:19:36.516Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:36.951Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:19:36.952Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:42.862Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:19:42.863Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:42.919Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:19:42.920Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:19:42.920Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:19:42.921Z - Time taken for 'hash changed files from watcher' 1.0646669999696314ms
+[NX Daemon Server] - 2025-04-28T15:19:42.943Z - Time taken for 'build-project-configs' 17.39516599988565ms
+[NX Daemon Server] - 2025-04-28T15:19:42.949Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 8.823791000060737ms
+[NX Daemon Server] - 2025-04-28T15:19:42.974Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:19:42.974Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:19:42.974Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:19:42.974Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:19:42.974Z - Time taken for 'total execution time for createProjectGraph()' 31.552167000016198ms
+[NX Daemon Server] - 2025-04-28T15:19:43.332Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:19:43.332Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:49.737Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:19:49.737Z - [REQUEST]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:19:49.737Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:19:49.740Z - Time taken for 'hash changed files from watcher' 2.5261250000912696ms
+[NX Daemon Server] - 2025-04-28T15:19:49.774Z - Time taken for 'build-project-configs' 27.081083999946713ms
+[NX Daemon Server] - 2025-04-28T15:19:49.778Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 9.1183749998454ms
+[NX Daemon Server] - 2025-04-28T15:19:49.801Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:19:49.801Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:19:49.802Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:19:49.802Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:19:49.802Z - Time taken for 'total execution time for createProjectGraph()' 28.597540999995545ms
+[NX Daemon Server] - 2025-04-28T15:19:53.231Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:19:53.232Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:53.683Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:19:53.684Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:19:59.635Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:19:59.636Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:19:59.636Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:19:59.639Z - Time taken for 'hash changed files from watcher' 1.6169579999987036ms
+[NX Daemon Server] - 2025-04-28T15:19:59.673Z - Time taken for 'build-project-configs' 30.23979099979624ms
+[NX Daemon Server] - 2025-04-28T15:19:59.677Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 7.9887920001056045ms
+[NX Daemon Server] - 2025-04-28T15:19:59.701Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:19:59.701Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:19:59.701Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:19:59.701Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:19:59.701Z - Time taken for 'total execution time for createProjectGraph()' 28.03804099978879ms
+[NX Daemon Server] - 2025-04-28T15:20:02.441Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:20:02.442Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:20:08.842Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:20:08.842Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html
+[NX Daemon Server] - 2025-04-28T15:20:08.842Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:20:08.843Z - Time taken for 'hash changed files from watcher' 0.19845800008624792ms
+[NX Daemon Server] - 2025-04-28T15:20:08.861Z - Time taken for 'build-project-configs' 13.916708000004292ms
+[NX Daemon Server] - 2025-04-28T15:20:08.867Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 8.825083000119776ms
+[NX Daemon Server] - 2025-04-28T15:20:08.891Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:20:08.891Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:20:08.891Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:20:08.891Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:20:08.892Z - Time taken for 'total execution time for createProjectGraph()' 28.48700000019744ms
+[NX Daemon Server] - 2025-04-28T15:20:17.673Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:20:17.674Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:20:18.054Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:20:18.054Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:20:24.082Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:20:24.083Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:20:24.083Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:20:24.086Z - Time taken for 'hash changed files from watcher' 1.4146670000627637ms
+[NX Daemon Server] - 2025-04-28T15:20:24.108Z - Time taken for 'build-project-configs' 18.60525000002235ms
+[NX Daemon Server] - 2025-04-28T15:20:24.114Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 9.160083000082523ms
+[NX Daemon Server] - 2025-04-28T15:20:24.142Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:20:24.142Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:20:24.143Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:20:24.143Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:20:24.143Z - Time taken for 'total execution time for createProjectGraph()' 32.4564169999212ms
+[NX Daemon Server] - 2025-04-28T15:22:09.295Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:22:09.296Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:22:09.819Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:22:09.820Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:22:13.354Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:22:13.355Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:22:13.767Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:22:13.767Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:22:15.699Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:22:15.700Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:22:15.700Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:22:15.703Z - Time taken for 'hash changed files from watcher' 0.803542000008747ms
+[NX Daemon Server] - 2025-04-28T15:22:15.737Z - Time taken for 'build-project-configs' 29.132500000065193ms
+[NX Daemon Server] - 2025-04-28T15:22:15.743Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 9.880624999990687ms
+[NX Daemon Server] - 2025-04-28T15:22:15.768Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:22:15.768Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:22:15.768Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:22:15.768Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:22:15.768Z - Time taken for 'total execution time for createProjectGraph()' 31.01029200013727ms
+[NX Daemon Server] - 2025-04-28T15:22:34.322Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:22:34.323Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:22:34.800Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:22:34.800Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:22:40.728Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:22:40.729Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:22:40.729Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:22:40.733Z - Time taken for 'hash changed files from watcher' 1.383208000101149ms
+[NX Daemon Server] - 2025-04-28T15:22:40.759Z - Time taken for 'build-project-configs' 22.318332999944687ms
+[NX Daemon Server] - 2025-04-28T15:22:40.765Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 10.36324999993667ms
+[NX Daemon Server] - 2025-04-28T15:22:40.795Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:22:40.795Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:22:40.795Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:22:40.795Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:22:40.795Z - Time taken for 'total execution time for createProjectGraph()' 35.8470419999212ms
+[NX Daemon Server] - 2025-04-28T15:26:43.489Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:26:43.497Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:26:43.915Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:26:43.916Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:26:49.905Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:26:49.906Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:26:49.906Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:26:49.912Z - Time taken for 'hash changed files from watcher' 3.7179169999435544ms
+[NX Daemon Server] - 2025-04-28T15:26:49.938Z - Time taken for 'build-project-configs' 20.11083299992606ms
+[NX Daemon Server] - 2025-04-28T15:26:49.944Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 8.468083000043407ms
+[NX Daemon Server] - 2025-04-28T15:26:49.969Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:26:49.969Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:26:49.970Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:26:49.970Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:26:49.970Z - Time taken for 'total execution time for createProjectGraph()' 29.926332999952137ms
+[NX Daemon Server] - 2025-04-28T15:26:52.106Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:26:52.106Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:26:52.548Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:26:52.548Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:26:56.834Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:26:56.835Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:26:57.232Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:26:57.232Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:26:58.510Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:26:58.510Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:26:58.510Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:26:58.513Z - Time taken for 'hash changed files from watcher' 0.9201249999459833ms
+[NX Daemon Server] - 2025-04-28T15:26:58.554Z - Time taken for 'build-project-configs' 35.124708000104874ms
+[NX Daemon Server] - 2025-04-28T15:26:58.560Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 10.479416999965906ms
+[NX Daemon Server] - 2025-04-28T15:26:58.586Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:26:58.586Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:26:58.586Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:26:58.586Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:26:58.586Z - Time taken for 'total execution time for createProjectGraph()' 31.986750000156462ms
+[NX Daemon Server] - 2025-04-28T15:27:46.015Z - [WATCHER]: apps/ecom-frontend/src/app/layout/footer/footer.component.html was modified
+[NX Daemon Server] - 2025-04-28T15:27:46.016Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:27:46.440Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was modified
+[NX Daemon Server] - 2025-04-28T15:27:46.440Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T15:27:52.421Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T15:27:52.421Z - [REQUEST]: apps/ecom-frontend/src/app/layout/footer/footer.component.html,.angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T15:27:52.421Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T15:27:52.425Z - Time taken for 'hash changed files from watcher' 1.3287089997902513ms
+[NX Daemon Server] - 2025-04-28T15:27:52.462Z - Time taken for 'build-project-configs' 31.27749999985099ms
+[NX Daemon Server] - 2025-04-28T15:27:52.467Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 10.559249999932945ms
+[NX Daemon Server] - 2025-04-28T15:27:52.494Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T15:27:52.495Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T15:27:52.495Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T15:27:52.495Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T15:27:52.495Z - Time taken for 'total execution time for createProjectGraph()' 34.57129100011662ms
