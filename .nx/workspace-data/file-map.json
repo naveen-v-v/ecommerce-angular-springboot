@@ -1,0 +1,1414 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.6.5",
+  "deps": {
+    "@angular/animations": "~18.2.0",
+    "@angular/common": "~18.2.0",
+    "@angular/compiler": "~18.2.0",
+    "@angular/core": "~18.2.0",
+    "@angular/forms": "~18.2.0",
+    "@angular/platform-browser": "~18.2.0",
+    "@angular/platform-browser-dynamic": "~18.2.0",
+    "@angular/platform-server": "~18.2.0",
+    "@angular/router": "~18.2.0",
+    "@angular/ssr": "~18.2.0",
+    "@fortawesome/angular-fontawesome": "^0.15.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-regular-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@ng-web-apis/common": "^4.2.1",
+    "@ng-web-apis/universal": "^4.2.1",
+    "@tanstack/angular-query-devtools-experimental": "^5.54.1",
+    "@tanstack/angular-query-experimental": "^5.54.1",
+    "angular-auth-oidc-client": "^18.0.1",
+    "express": "~4.18.2",
+    "ngx-stripe": "^18.1.0",
+    "ngxtension": "^4.0.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.3",
+    "@angular-devkit/build-angular": "~18.2.0",
+    "@angular-devkit/core": "~18.2.0",
+    "@angular-devkit/schematics": "~18.2.0",
+    "@angular-eslint/eslint-plugin": "^18.0.1",
+    "@angular-eslint/eslint-plugin-template": "^18.0.1",
+    "@angular-eslint/template-parser": "^18.0.1",
+    "@angular/cli": "~18.2.0",
+    "@angular/compiler-cli": "~18.2.0",
+    "@angular/language-service": "~18.2.0",
+    "@nx/angular": "19.6.5",
+    "@nx/eslint": "19.6.5",
+    "@nx/eslint-plugin": "19.6.5",
+    "@nx/jest": "19.6.5",
+    "@nx/js": "19.6.5",
+    "@nx/web": "19.6.5",
+    "@nx/workspace": "19.6.5",
+    "@nxrocks/nx-spring-boot": "^10.2.6",
+    "@schematics/angular": "~18.2.0",
+    "@swc-node/register": "~1.9.1",
+    "@swc/core": "~1.5.7",
+    "@swc/helpers": "~0.5.11",
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/express": "4.17.14",
+    "@types/jest": "^29.5.12",
+    "@types/node": "22.2.0",
+    "@typescript-eslint/eslint-plugin": "^7.16.0",
+    "@typescript-eslint/parser": "^7.16.0",
+    "@typescript-eslint/utils": "^7.16.0",
+    "autoprefixer": "^10.4.0",
+    "daisyui": "^4.12.10",
+    "eslint": "~8.57.0",
+    "eslint-config-prettier": "^9.0.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jest-preset-angular": "~14.1.0",
+    "nx": "19.6.5",
+    "postcss": "^8.4.5",
+    "prettier": "^2.6.2",
+    "tailwindcss": "^3.0.2",
+    "ts-jest": "^29.1.0",
+    "ts-node": "10.9.1",
+    "typescript": "~5.5.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [
+    {
+      "name": "@nxrocks/nx-spring-boot",
+      "version": "^10.2.6",
+      "options": {
+        "buildTargetName": "build",
+        "installTargetName": "install",
+        "testTargetName": "test",
+        "cleanTargetName": "clean",
+        "formatTargetName": "format",
+        "applyFormatTargetName": "apply-format",
+        "checkFormatTargetName": "check-format",
+        "runTargetName": "run",
+        "serveTargetName": "serve",
+        "buildImageTargetName": "build-image",
+        "buildInfoTargetName": "build-info"
+      }
+    }
+  ],
+  "fileMap": {
+    "projectFileMap": {
+      "ecom-frontend": [
+        {
+          "file": "apps/ecom-frontend/.eslintrc.json",
+          "hash": "3322449398258820698"
+        },
+        {
+          "file": "apps/ecom-frontend/jest.config.ts",
+          "hash": "1137731159196558241"
+        },
+        {
+          "file": "apps/ecom-frontend/project.json",
+          "hash": "5640581588821156505"
+        },
+        {
+          "file": "apps/ecom-frontend/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/ecom-frontend/public/home/hero.webp",
+          "hash": "15987618362768977620"
+        },
+        {
+          "file": "apps/ecom-frontend/server.ts",
+          "hash": "8086175766969307244",
+          "deps": [
+            "npm:@angular/common",
+            "npm:@angular/ssr",
+            "npm:express"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/admin-orders/admin-orders.component.html",
+          "hash": "14770510858459226266"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/admin-orders/admin-orders.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/admin-orders/admin-orders.component.spec.ts",
+          "hash": "11494406865987936742",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/admin-orders/admin-orders.component.ts",
+          "hash": "5895565440385752239",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/admin-product.service.spec.ts",
+          "hash": "9049385319022178783",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/admin-product.service.ts",
+          "hash": "1417318846780815193",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.html",
+          "hash": "8104765250280495723"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.spec.ts",
+          "hash": "11508447986027523336",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/admin-categories/admin-categories.component.ts",
+          "hash": "13642133454680747811",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/create-category/create-category.component.html",
+          "hash": "8362607725221922376"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/create-category/create-category.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/create-category/create-category.component.spec.ts",
+          "hash": "10412134943422588602",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/category/create-category/create-category.component.ts",
+          "hash": "6426924496769788060",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:ngxtension",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/model/product.model.ts",
+          "hash": "10075648444714857398",
+          "deps": [
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.html",
+          "hash": "5566062060222394317"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.spec.ts",
+          "hash": "1803759357658249363",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/admin-products/admin-products.component.ts",
+          "hash": "6612346344384419375",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:@angular/router",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.html",
+          "hash": "13126807114043524698"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.spec.ts",
+          "hash": "2777641411126531882",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/admin/product/create-product/create-product.component.ts",
+          "hash": "15724581003008040330",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms",
+            "npm:@angular/router",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:ngxtension"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.component.html",
+          "hash": "12424125108179467142"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.component.spec.ts",
+          "hash": "1530749343580849369",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.component.ts",
+          "hash": "10653107783971997096",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.config.server.ts",
+          "hash": "11104777673000468535",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/platform-server",
+            "npm:@ng-web-apis/universal"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.config.ts",
+          "hash": "17076689564802396647",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router",
+            "npm:@angular/platform-browser",
+            "npm:@angular/common",
+            "npm:angular-auth-oidc-client",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:ngx-stripe"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/app.routes.ts",
+          "hash": "3581320025237469200",
+          "deps": [
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/auth/oauth2.service.spec.ts",
+          "hash": "15303701274841555129",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/auth/oauth2.service.ts",
+          "hash": "11763610430820044966",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:angular-auth-oidc-client",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/auth/role-check.guard.ts",
+          "hash": "10686155419737815250",
+          "deps": [
+            "npm:@angular/router",
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/auth/ssr-storage.service.spec.ts",
+          "hash": "13473790772017962099",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/auth/ssr-storage.service.ts",
+          "hash": "16892067182636256302",
+          "deps": [
+            "npm:@angular/core",
+            "npm:angular-auth-oidc-client",
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/featured/featured.component.html",
+          "hash": "4992350652233422475"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/featured/featured.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/featured/featured.component.spec.ts",
+          "hash": "132328853289453539",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/featured/featured.component.ts",
+          "hash": "15765738396991431896",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/home.component.html",
+          "hash": "11278113011996821565"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/home.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/home.component.spec.ts",
+          "hash": "2620641819347346630",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/home/home.component.ts",
+          "hash": "14021090012331538823",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/footer/footer.component.html",
+          "hash": "11753236474001403841"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/footer/footer.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/footer/footer.component.spec.ts",
+          "hash": "5850760657800237085",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/footer/footer.component.ts",
+          "hash": "15802468427423334376",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.html",
+          "hash": "3612036428425249296"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.scss",
+          "hash": "5450594303512025250"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.spec.ts",
+          "hash": "11611426068913683136",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/layout/navbar/navbar.component.ts",
+          "hash": "16879931027126934304",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router",
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:ngxtension",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/font-awesome-icons.ts",
+          "hash": "16879350142184217037",
+          "deps": [
+            "npm:@fortawesome/angular-fontawesome",
+            "npm:@fortawesome/free-solid-svg-icons",
+            "npm:@fortawesome/free-brands-svg-icons",
+            "npm:@fortawesome/free-regular-svg-icons"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/model/order.model.ts",
+          "hash": "5070366434497248317"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/model/request.model.ts",
+          "hash": "382615161888075951",
+          "deps": [
+            "npm:@angular/common"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/model/user.model.ts",
+          "hash": "5618557094436061370"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/service/order.service.spec.ts",
+          "hash": "14723356946725815877",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/service/order.service.ts",
+          "hash": "2446071702415730836",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/service/user-product.service.spec.ts",
+          "hash": "17622246701648721116",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/service/user-product.service.ts",
+          "hash": "6152094437336045547",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/toast/toast-info.model.ts",
+          "hash": "8532587140156780714"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/toast/toast.service.spec.ts",
+          "hash": "17532437836695669978",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shared/toast/toast.service.ts",
+          "hash": "10073893281821272659",
+          "deps": [
+            "npm:@angular/core",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart-success/cart-success.component.html",
+          "hash": "6025431438961608974"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart-success/cart-success.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart-success/cart-success.component.spec.ts",
+          "hash": "15803104136687063470",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart-success/cart-success.component.ts",
+          "hash": "8763074305659602373",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:ngxtension",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart.model.ts",
+          "hash": "3722969032946932013"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart.service.spec.ts",
+          "hash": "4835626579989819090",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart.service.ts",
+          "hash": "14854936273895846101",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart/cart.component.html",
+          "hash": "5130802874591329955"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart/cart.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart/cart.component.spec.ts",
+          "hash": "4258386838848462397",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/cart/cart.component.ts",
+          "hash": "10231442783941430321",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:@angular/router",
+            "npm:ngx-stripe"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-card/product-card.component.html",
+          "hash": "18390223234541480793"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-card/product-card.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-card/product-card.component.spec.ts",
+          "hash": "2775237923328550833",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-card/product-card.component.ts",
+          "hash": "17860837990602624338",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-detail/product-detail.component.html",
+          "hash": "10621237379229658464"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-detail/product-detail.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-detail/product-detail.component.spec.ts",
+          "hash": "14276390366209855992",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/product-detail/product-detail.component.ts",
+          "hash": "9724594859779946976",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:ngxtension",
+            "npm:@angular/router",
+            "npm:rxjs",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products-filter/products-filter.component.html",
+          "hash": "8291810329759750943"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products-filter/products-filter.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products-filter/products-filter.component.spec.ts",
+          "hash": "11110764710357294252",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products-filter/products-filter.component.ts",
+          "hash": "4112893414627723455",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@angular/forms"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products.component.html",
+          "hash": "1149131077266235040"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products.component.spec.ts",
+          "hash": "5022660490782315645",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/shop/products/products.component.ts",
+          "hash": "15574061226877130870",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:ngxtension",
+            "npm:@angular/router",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/user/user-orders/user-orders.component.html",
+          "hash": "342291432602212572"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/user/user-orders/user-orders.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/user/user-orders/user-orders.component.spec.ts",
+          "hash": "3903769909200519655",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/app/user/user-orders/user-orders.component.ts",
+          "hash": "5077765686946010674",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/common",
+            "npm:@tanstack/angular-query-experimental",
+            "npm:rxjs",
+            "npm:@fortawesome/angular-fontawesome"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/environments/environment.development.ts",
+          "hash": "8692143692048731563"
+        },
+        {
+          "file": "apps/ecom-frontend/src/environments/environment.production.ts",
+          "hash": "7949106209064313912"
+        },
+        {
+          "file": "apps/ecom-frontend/src/environments/environment.ts",
+          "hash": "4384893601782698777"
+        },
+        {
+          "file": "apps/ecom-frontend/src/index.html",
+          "hash": "16060112231758478861"
+        },
+        {
+          "file": "apps/ecom-frontend/src/main.server.ts",
+          "hash": "11653607448136507287",
+          "deps": [
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/main.ts",
+          "hash": "16635586463787978962",
+          "deps": [
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/src/styles.scss",
+          "hash": "17788899824995975898"
+        },
+        {
+          "file": "apps/ecom-frontend/src/test-setup.ts",
+          "hash": "12935735732682149507",
+          "deps": [
+            "npm:jest-preset-angular"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/tailwind.config.js",
+          "hash": "17277964167118928719",
+          "deps": [
+            "npm:@nx/angular",
+            "npm:@tailwindcss/typography",
+            "npm:daisyui"
+          ]
+        },
+        {
+          "file": "apps/ecom-frontend/tsconfig.app.json",
+          "hash": "564685728328269220"
+        },
+        {
+          "file": "apps/ecom-frontend/tsconfig.editor.json",
+          "hash": "1055794200401717100"
+        },
+        {
+          "file": "apps/ecom-frontend/tsconfig.json",
+          "hash": "6424220500541951295"
+        },
+        {
+          "file": "apps/ecom-frontend/tsconfig.spec.json",
+          "hash": "2927375835638640771"
+        }
+      ],
+      "ecom-backend": [
+        {
+          "file": "apps/ecom-backend/.gitignore",
+          "hash": "15369637531366141343"
+        },
+        {
+          "file": "apps/ecom-backend/.mvn/wrapper/maven-wrapper.properties",
+          "hash": "13738072602276633278"
+        },
+        {
+          "file": "apps/ecom-backend/compose.yaml",
+          "hash": "17908288897294026427"
+        },
+        {
+          "file": "apps/ecom-backend/mvnw",
+          "hash": "13478475927638852605"
+        },
+        {
+          "file": "apps/ecom-backend/mvnw.cmd",
+          "hash": "3450954333562591333"
+        },
+        {
+          "file": "apps/ecom-backend/pom.xml",
+          "hash": "5830343802760696530"
+        },
+        {
+          "file": "apps/ecom-backend/project.json",
+          "hash": "6768451983317583208"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/EcomBackendApplication.java",
+          "hash": "3121231184527174875"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/application/OrderApplicationService.java",
+          "hash": "10910040808885571610"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/application/UsersApplicationService.java",
+          "hash": "11942095643665177961"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/CartPaymentException.java",
+          "hash": "3003644900092459992"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/DetailCartItemRequest.java",
+          "hash": "15149642773292642151"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/DetailCartRequest.java",
+          "hash": "2045713522763340502"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/DetailCartResponse.java",
+          "hash": "6066151699840054024"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/Order.java",
+          "hash": "8434576245321445016"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/OrderProductQuantity.java",
+          "hash": "7285449269840609219"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/OrderedProduct.java",
+          "hash": "12000766470515965529"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/aggregate/StripeSessionInformation.java",
+          "hash": "14147960872932739687"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/repository/OrderRepository.java",
+          "hash": "5963227107288468539"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/service/CartReader.java",
+          "hash": "17190180275085463095"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/service/OrderCreator.java",
+          "hash": "10304644964263280076"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/service/OrderReader.java",
+          "hash": "12373535142222355749"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/service/OrderUpdater.java",
+          "hash": "14413106242139306785"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/vo/OrderPrice.java",
+          "hash": "15277046557505903123"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/vo/OrderQuantity.java",
+          "hash": "16535009193581427373"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/vo/OrderStatus.java",
+          "hash": "477277807797803829"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/vo/ProductPublicId.java",
+          "hash": "16566758512087623272"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/order/vo/StripeSessionId.java",
+          "hash": "830967195853940297"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/aggregate/Authority.java",
+          "hash": "2909057719066081884"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/aggregate/User.java",
+          "hash": "4213187157202380322"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/repository/UserRepository.java",
+          "hash": "12530591598712544077"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/service/UserReader.java",
+          "hash": "14453160607587090115"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/service/UserSynchronizer.java",
+          "hash": "10908699813181769431"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/AuthorityName.java",
+          "hash": "13699682758292203089"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserAddress.java",
+          "hash": "4410044481944548796"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserAddressToUpdate.java",
+          "hash": "12844350895217477411"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserEmail.java",
+          "hash": "16759487262277896859"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserFirstname.java",
+          "hash": "15851945269543881308"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserImageUrl.java",
+          "hash": "10304675204368206606"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserLastname.java",
+          "hash": "6621948133089756935"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/domain/user/vo/UserPublicId.java",
+          "hash": "1806348412185214655"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/RestAuthority.java",
+          "hash": "6959938726717464178"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/RestUser.java",
+          "hash": "222632081262080629"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/UsersResource.java",
+          "hash": "10146992329146711554"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/OrderResource.java",
+          "hash": "2598408659385560707"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestCartItemRequest.java",
+          "hash": "5343887841412089085"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestDetailCartResponse.java",
+          "hash": "2472642193909672872"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestOrderRead.java",
+          "hash": "7562589142854677455"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestOrderReadAdmin.java",
+          "hash": "1568827545998369487"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestOrderedItemRead.java",
+          "hash": "11800583845086821812"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestProductCart.java",
+          "hash": "5646389245023167413"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/primary/order/RestStripeSession.java",
+          "hash": "12585868834156212125"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/entity/AuthorityEntity.java",
+          "hash": "17363742536340901689"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/entity/OrderEntity.java",
+          "hash": "15779897918916264293"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/entity/OrderedProductEntity.java",
+          "hash": "1244441698719985210"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/entity/OrderedProductEntityPk.java",
+          "hash": "16303764476537720420"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/entity/UserEntity.java",
+          "hash": "13912004823511275767"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/repository/JpaOrderRepository.java",
+          "hash": "9579728995139849709"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/repository/JpaOrderedProductRepository.java",
+          "hash": "16449017152983100528"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/repository/JpaUserRepository.java",
+          "hash": "1290858936723058165"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/repository/SpringDataOrderRepository.java",
+          "hash": "9774554688760815335"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/repository/SpringDataUserRepository.java",
+          "hash": "12327411479626408772"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/service/kinde/KindeAccessToken.java",
+          "hash": "571435264801354249"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/service/kinde/KindeService.java",
+          "hash": "10529715225379968668"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/order/infrastructure/secondary/service/stripe/StripeService.java",
+          "hash": "11119556873658424498"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/application/ProductsApplicationService.java",
+          "hash": "18344195715918520683"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/aggregate/Category.java",
+          "hash": "3364506942651770561"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/aggregate/FilterQuery.java",
+          "hash": "13366425814335382160"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/aggregate/Picture.java",
+          "hash": "12029393908583756681"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/aggregate/Product.java",
+          "hash": "7083771515447542937"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/aggregate/ProductCart.java",
+          "hash": "7372506416760406406"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/repository/CategoryRepository.java",
+          "hash": "16808961622428540100"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/repository/ProductRepository.java",
+          "hash": "3044304547889096239"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/service/CategoryCRUD.java",
+          "hash": "13301128350955537198"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/service/ProductCRUD.java",
+          "hash": "6005248622551724704"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/service/ProductShop.java",
+          "hash": "1173682915567851600"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/service/ProductUpdater.java",
+          "hash": "11629325485503646049"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/CategoryName.java",
+          "hash": "10194069441678076120"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/ProductBrand.java",
+          "hash": "3536841800375803530"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/ProductColor.java",
+          "hash": "10196429370612489453"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/ProductDescription.java",
+          "hash": "12613867850349219237"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/ProductName.java",
+          "hash": "16148534340057891781"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/ProductPrice.java",
+          "hash": "8448492474107489256"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/ProductSize.java",
+          "hash": "6595504085806899820"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/domain/vo/PublicId.java",
+          "hash": "14852162797237534630"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/CategoriesResource.java",
+          "hash": "3149183424586207738"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/ProductsAdminResource.java",
+          "hash": "18170908202932794782"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/ProductsShopResource.java",
+          "hash": "3769810560663925602"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/RestCategory.java",
+          "hash": "16186548625068768146"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/RestPicture.java",
+          "hash": "10528943430480029200"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/RestProduct.java",
+          "hash": "15793735613866010391"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/exceptions/EntityCreationFailed.java",
+          "hash": "17277742510308609969"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/primary/exceptions/MultipartPictureException.java",
+          "hash": "16042754781531375357"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/entity/CategoryEntity.java",
+          "hash": "8816461885187300974"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/entity/PictureEntity.java",
+          "hash": "8456530325356458194"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/entity/ProductEntity.java",
+          "hash": "1319704567330608716"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/repository/JpaCategoryRepository.java",
+          "hash": "4497148990823723238"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/repository/JpaProductPictureRepository.java",
+          "hash": "17643181043405931714"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/repository/JpaProductRepository.java",
+          "hash": "7689676997216979989"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/repository/SpringDataCategoryRepository.java",
+          "hash": "14512160156923069884"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/product/infrastructure/secondary/repository/SpringDataProductRepository.java",
+          "hash": "14906958543424596293"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/application/AuthenticatedUser.java",
+          "hash": "18364599960536178581"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/application/AuthenticationException.java",
+          "hash": "2545917255928826255"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/application/NotAuthenticatedUserException.java",
+          "hash": "7695839360936078908"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/application/UnknownAuthenticationException.java",
+          "hash": "916186955104430477"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/domain/Role.java",
+          "hash": "2375206683415171609"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/domain/Roles.java",
+          "hash": "4421385566068606095"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/domain/Username.java",
+          "hash": "5684254127077217538"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/infrastructure/primary/KindeJwtAuthenticationConverter.java",
+          "hash": "10137539808323972494"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/authentication/infrastructure/primary/SecurityConfiguration.java",
+          "hash": "617530269814049056"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/Assert.java",
+          "hash": "6061282750130916207"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/AssertionErrorType.java",
+          "hash": "1772471815804979093"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/AssertionException.java",
+          "hash": "2624038046217779571"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/MissingMandatoryValueException.java",
+          "hash": "1518082618982685474"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/NotAColorException.java",
+          "hash": "17688924960373362003"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/NotAfterTimeException.java",
+          "hash": "7035450519404491509"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/NotBeforeTimeException.java",
+          "hash": "4045683582584188869"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/NullElementInCollectionException.java",
+          "hash": "3473479093576470564"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/NumberValueTooHighException.java",
+          "hash": "812566774399293120"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/NumberValueTooLowException.java",
+          "hash": "13113483057392581775"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/StringTooLongException.java",
+          "hash": "16861101349245007913"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/StringTooShortException.java",
+          "hash": "10875088552699973273"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/domain/TooManyElementsException.java",
+          "hash": "14786565764601116052"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/error/infrastructure/primary/BeanValidationErrorsHandler.java",
+          "hash": "7941764767242400357"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/shared/jpa/AbstractAuditingEntity.java",
+          "hash": "13709762243870719586"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/wire/postgresql/infrastructure/DatabaseConfiguration.java",
+          "hash": "14885679197255116293"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/wire/security/primary/CorsFilterConfiguration.java",
+          "hash": "16868004812643403529"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/java/fr/codecake/ecom/wire/security/primary/CorsProperties.java",
+          "hash": "12851694785902017601"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/application-local.yml",
+          "hash": "1094123837509390720"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/application.yml",
+          "hash": "5299792236221020692"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/00000000000001_user.xml",
+          "hash": "10618835286075025715"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/00000000000002_product_category.xml",
+          "hash": "13101303910860803828"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/00000000000003_product.xml",
+          "hash": "14721450338263207577"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/00000000000004_order.xml",
+          "hash": "17657547789565014228"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/changelog/master.xml",
+          "hash": "16744779204973978984"
+        },
+        {
+          "file": "apps/ecom-backend/src/main/resources/db/data/authority.csv",
+          "hash": "11997263253237822955"
+        },
+        {
+          "file": "apps/ecom-backend/src/test/java/fr/codecake/ecom/EcomBackendApplicationTests.java",
+          "hash": "13731826683650965260"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": "README.md",
+        "hash": "12081612395520344013"
+      },
+      {
+        "file": "jest.config.ts",
+        "hash": "3494843969422251966"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "9430166341120122740"
+      },
+      {
+        "file": "nx.json",
+        "hash": "4546449642935827340"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6766473322397738995"
+      },
+      {
+        "file": "package.json",
+        "hash": "418307150957203513"
+      },
+      {
+        "file": "schema-ecommerce-app.png",
+        "hash": "147443307796125685"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "16936441711144470533"
+      }
+    ]
+  }
+}
