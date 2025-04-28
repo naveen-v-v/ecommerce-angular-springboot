@@ -1,0 +1,594 @@
+{
+  "apps/ecom-backend": {
+    "root": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "tags": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "tags.type:nx-spring-boot": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.cache": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.dependsOn": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.outputs": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.cache": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.dependsOn": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.outputs": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.install.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.test": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.test.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.test.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.test.outputs": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.test.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.test.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.clean": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.clean.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.clean.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.clean.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.clean.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.format": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.format.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.format.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.format.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.format.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.apply-format": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.apply-format.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.apply-format.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.apply-format.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.apply-format.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.check-format": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.check-format.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.check-format.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.check-format.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.check-format.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.run": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.run.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.run.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.run.dependsOn": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.run.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.run.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-image": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-image.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-image.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-image.outputs": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-image.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-image.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-info": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-info.executor": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-info.options": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-info.options.root": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "targets.build-info.options.runFromParentModule": [
+      "apps/ecom-backend/pom.xml",
+      "@nxrocks/nx-spring-boot"
+    ],
+    "$schema": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.root": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.args": [
+      "apps/ecom-backend/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "apps/ecom-frontend": {
+    "root": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.index": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.browser": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.inlineStyleLanguage": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.scripts": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.server": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.prerender": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.ssr": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.fileReplacements": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.fileReplacements": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.jestConfig": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.staticFilePath": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "apps/ecom-frontend/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.options.passWithNoTests": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.ci": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.configurations.ci.codeCoverage": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  }
+}

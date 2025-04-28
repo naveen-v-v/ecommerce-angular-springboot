@@ -9,3 +9,15 @@
 [NX Daemon Server] - 2025-04-28T14:38:54.352Z - Closed a connection. Number of open connections: 0
 [NX Daemon Server] - 2025-04-28T14:38:54.352Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (sources)
 [NX Daemon Server] - 2025-04-28T14:38:54.352Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (outputs)
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.587Z - Started listening on: /var/folders/vs/w92pb1lx00g4hwc1b_5_t4fc0000gn/T/5c463be4c5c978f775ee/d.sock
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.589Z - [WATCHER]: Subscribed to changes within: /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (native)
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.597Z - Established a connection. Number of open connections: 1
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.598Z - Established a connection. Number of open connections: 2
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.599Z - Closed a connection. Number of open connections: 1
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.599Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.600Z - Done responding to the client Shutdown initiated
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.600Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.600Z - Closed a connection. Number of open connections: 0
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.601Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (sources)
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.601Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (outputs)
+[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.601Z - Server stopped because: "Request to shutdown"
