@@ -1,23 +1,83 @@
-[NX Daemon Server] - 2025-04-28T14:38:54.344Z - Started listening on: /var/folders/vs/w92pb1lx00g4hwc1b_5_t4fc0000gn/T/5c463be4c5c978f775ee/d.sock
-[NX Daemon Server] - 2025-04-28T14:38:54.347Z - [WATCHER]: Subscribed to changes within: /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (native)
-[NX Daemon Server] - 2025-04-28T14:38:54.348Z - Established a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-04-28T14:38:54.348Z - Established a connection. Number of open connections: 2
-[NX Daemon Server] - 2025-04-28T14:38:54.349Z - Closed a connection. Number of open connections: 1
-[NX Daemon Server] - 2025-04-28T14:38:54.350Z - [REQUEST]: Responding to the client. Shutdown initiated
-[NX Daemon Server] - 2025-04-28T14:38:54.350Z - Done responding to the client Shutdown initiated
-[NX Daemon Server] - 2025-04-28T14:38:54.350Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
-[NX Daemon Server] - 2025-04-28T14:38:54.352Z - Closed a connection. Number of open connections: 0
-[NX Daemon Server] - 2025-04-28T14:38:54.352Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (sources)
-[NX Daemon Server] - 2025-04-28T14:38:54.352Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (outputs)
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.587Z - Started listening on: /var/folders/vs/w92pb1lx00g4hwc1b_5_t4fc0000gn/T/5c463be4c5c978f775ee/d.sock
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.589Z - [WATCHER]: Subscribed to changes within: /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (native)
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.597Z - Established a connection. Number of open connections: 1
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.598Z - Established a connection. Number of open connections: 2
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.599Z - Closed a connection. Number of open connections: 1
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.599Z - [REQUEST]: Responding to the client. Shutdown initiated
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.600Z - Done responding to the client Shutdown initiated
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.600Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.600Z - Closed a connection. Number of open connections: 0
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.601Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (sources)
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.601Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (outputs)
-[NX v20.8.1 Daemon Server] - 2025-04-28T14:42:28.601Z - Server stopped because: "Request to shutdown"
+[NX Daemon Server] - 2025-04-28T14:52:11.989Z - Started listening on: /var/folders/vs/w92pb1lx00g4hwc1b_5_t4fc0000gn/T/5c463be4c5c978f775ee/d.sock
+[NX Daemon Server] - 2025-04-28T14:52:11.991Z - [WATCHER]: Subscribed to changes within: /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (native)
+[NX Daemon Server] - 2025-04-28T14:52:11.997Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-04-28T14:52:11.998Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-04-28T14:52:12.000Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-04-28T14:52:12.001Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2025-04-28T14:52:12.001Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2025-04-28T14:52:12.001Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2025-04-28T14:52:12.002Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (sources)
+[NX Daemon Server] - 2025-04-28T14:52:12.002Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-04-28T14:52:12.002Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (outputs)
+[NX Daemon Server] - 2025-04-28T14:52:31.708Z - Started listening on: /var/folders/vs/w92pb1lx00g4hwc1b_5_t4fc0000gn/T/5c463be4c5c978f775ee/d.sock
+[NX Daemon Server] - 2025-04-28T14:52:31.709Z - [WATCHER]: Subscribed to changes within: /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (native)
+[NX Daemon Server] - 2025-04-28T14:52:31.716Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-04-28T14:52:31.716Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-04-28T14:52:31.717Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-04-28T14:52:31.718Z - [REQUEST]: Client Request for Project Graph Received
+(node:75442) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[NX Daemon Server] - 2025-04-28T14:52:31.930Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T14:52:31.930Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T14:52:31.930Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T14:52:31.934Z - Time taken for 'loadNxPlugins' 211.41062499999998ms
+[NX Daemon Server] - 2025-04-28T14:52:31.966Z - Time taken for 'build-project-configs' 21.057916999999975ms
+[NX Daemon Server] - 2025-04-28T14:52:31.969Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 5.090499999999963ms
+[NX Daemon Server] - 2025-04-28T14:52:32.002Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T14:52:32.002Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T14:52:32.002Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-04-28T14:52:32.003Z - Time taken for 'total for creating and serializing project graph' 284.74579100000005ms
+[NX Daemon Server] - 2025-04-28T14:52:32.006Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-04-28T14:52:32.006Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 284. Response time: 4.
+[NX Daemon Server] - 2025-04-28T14:52:32.023Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2025-04-28T14:52:32.023Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2025-04-28T14:52:32.023Z - Handled HASH_TASKS. Handling time: 11. Response time: 0.
+[NX Daemon Server] - 2025-04-28T14:52:32.267Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-04-28T14:52:32.267Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2025-04-28T14:52:32.267Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2025-04-28T14:52:32.268Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2025-04-28T14:52:32.268Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2025-04-28T14:52:32.269Z - Time taken for 'total for creating and serializing project graph' 0.14354100000002745ms
+[NX Daemon Server] - 2025-04-28T14:52:32.270Z - Done responding to the client project-graph
+[NX Daemon Server] - 2025-04-28T14:52:32.270Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2025-04-28T14:52:34.847Z - [WATCHER]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo was created or restored
+[NX Daemon Server] - 2025-04-28T14:52:34.848Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T14:52:34.949Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T14:52:34.950Z - [REQUEST]: .angular/cache/18.2.2/ecom-frontend/.tsbuildinfo
+[NX Daemon Server] - 2025-04-28T14:52:34.950Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T14:52:34.952Z - Time taken for 'hash changed files from watcher' 0.27145800000016607ms
+[NX Daemon Server] - 2025-04-28T14:52:34.976Z - Time taken for 'build-project-configs' 21.096042000000125ms
+[NX Daemon Server] - 2025-04-28T14:52:34.979Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 5.235000000000127ms
+[NX Daemon Server] - 2025-04-28T14:52:34.994Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T14:52:34.994Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T14:52:34.995Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T14:52:34.995Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T14:52:34.995Z - Time taken for 'total execution time for createProjectGraph()' 18.255040999999892ms
+[NX Daemon Server] - 2025-04-28T14:52:35.213Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T14:52:35.213Z - [WATCHER]: 2 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2025-04-28T14:52:35.315Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T14:52:35.315Z - [REQUEST]: .angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/package.json,.angular/cache/18.2.2/vite/deps_temp_688ae36d/package.json
+[NX Daemon Server] - 2025-04-28T14:52:35.315Z - [REQUEST]: 
+[NX Daemon Server] - 2025-04-28T14:52:35.317Z - Time taken for 'hash changed files from watcher' 0.2634579999999005ms
+[NX Daemon Server] - 2025-04-28T14:52:35.331Z - Time taken for 'build-project-configs' 11.015917000000172ms
+[NX Daemon Server] - 2025-04-28T14:52:35.335Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 7.024042000000009ms
+[NX Daemon Server] - 2025-04-28T14:52:35.348Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T14:52:35.349Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T14:52:35.349Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T14:52:35.349Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T14:52:35.349Z - Time taken for 'total execution time for createProjectGraph()' 16.447125000000142ms
+[NX Daemon Server] - 2025-04-28T14:52:39.168Z - [WATCHER]: 54 file(s) created or restored, 0 file(s) modified, 62 file(s) deleted
+[NX Daemon Server] - 2025-04-28T14:52:39.171Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T14:52:39.277Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2025-04-28T14:52:39.277Z - [REQUEST]: .angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-Q3SR6UOA.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_inject-query-params.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-KX4LG3VE.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_core.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-WDMUDEB6.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_core.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-K7W3UN3E.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_free-solid-svg-icons.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/angular-auth-oidc-client.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_common.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-Y33LYUQV.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_angular-fontawesome.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-Y33LYUQV.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_common_http.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-GUN7VAH6.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-K7W3UN3E.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_angular-fontawesome.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-SZFLBOQ6.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@tanstack_angular-query-experimental.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-7Z7IUP23.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngx-stripe.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_forms.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_free-regular-svg-icons.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_platform-browser.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_control-error.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-X3E7OF3P.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-SZFLBOQ6.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/angular-auth-oidc-client.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_click-outside.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_common.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-X3E7OF3P.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_router.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_free-solid-svg-icons.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_free-brands-svg-icons.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_forms.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_inject-query-params.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_control-error.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_inject-params.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-GUN7VAH6.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@tanstack_angular-query-experimental.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/rxjs.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-WDMUDEB6.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-KX4LG3VE.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-Q3SR6UOA.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_free-regular-svg-icons.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_router.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@fortawesome_free-brands-svg-icons.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngx-stripe.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/chunk-7Z7IUP23.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_click-outside.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_platform-browser.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/@angular_common_http.js,.angular/cache/18.2.2/vite/deps_temp_688ae36d/ngxtension_inject-params.js.map,.angular/cache/18.2.2/vite/deps_temp_688ae36d/rxjs.js
+[NX Daemon Server] - 2025-04-28T14:52:39.277Z - [REQUEST]: .angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/rxjs.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_platform-browser.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_common_http.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/angular-auth-oidc-client.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_free-solid-svg-icons.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_click-outside.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_core.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_inject-query-params.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_core.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_free-solid-svg-icons.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_forms.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/xhr2-V2GDQ3PS.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_common_http.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-YYUEM3RU.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_platform-browser.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_common.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_free-brands-svg-icons.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_angular-fontawesome.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_inject-params.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-ANCXVQZ5.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-ZYJEVPVL.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@ng-web-apis_universal.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_inject-query-params.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_common.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_free-regular-svg-icons.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_angular-fontawesome.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-ZWHSJOYW.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-QZAEVUZF.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-W7OK22Z3.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-ANCXVQZ5.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_platform-server.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-UOWK3HKW.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@tanstack_angular-query-experimental.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-UOWK3HKW.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/xhr2-V2GDQ3PS.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_free-brands-svg-icons.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-W2OVKRTT.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-QZAEVUZF.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@fortawesome_free-regular-svg-icons.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-ZWHSJOYW.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@tanstack_angular-query-experimental.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@ng-web-apis_universal.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_control-error.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngx-stripe.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-NQ4HTGF6.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-NQ4HTGF6.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_router.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_forms.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-W2OVKRTT.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_platform-server.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngx-stripe.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/rxjs.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/angular-auth-oidc-client.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_control-error.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_inject-params.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/ngxtension_click-outside.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-YYUEM3RU.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/@angular_router.js.map,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-W7OK22Z3.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/chunk-ZYJEVPVL.js,.angular/cache/18.2.2/vite/deps_ssr_temp_8aff64f1/_metadata.json
+[NX Daemon Server] - 2025-04-28T14:52:39.282Z - Time taken for 'hash changed files from watcher' 4.194749999999658ms
+[NX Daemon Server] - 2025-04-28T14:52:39.322Z - Time taken for 'build-project-configs' 35.839500000000044ms
+[NX Daemon Server] - 2025-04-28T14:52:39.329Z - Time taken for '@nxrocks/nx-spring-boot:createDependencies' 9.274083000000246ms
+[NX Daemon Server] - 2025-04-28T14:52:39.350Z - [SYNC]: collect registered sync generators
+[NX Daemon Server] - 2025-04-28T14:52:39.351Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX Daemon Server] - 2025-04-28T14:52:39.351Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX Daemon Server] - 2025-04-28T14:52:39.351Z - [SYNC]: scheduling: []
+[NX Daemon Server] - 2025-04-28T14:52:39.351Z - Time taken for 'total execution time for createProjectGraph()' 28.171707999999853ms
+[NX Daemon Server] - 2025-04-28T14:53:40.966Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2025-04-28T14:53:43.112Z - [WATCHER]: Processing file changes in outputs
