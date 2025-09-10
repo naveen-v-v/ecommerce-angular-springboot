@@ -738,3 +738,6 @@
 [NX Daemon Server] - 2025-04-28T18:30:29.998Z - Time taken for 'total execution time for createProjectGraph()' 33.91395900025964ms
 [NX Daemon Server] - 2025-04-28T18:30:48.777Z - Closed a connection. Number of open connections: 1
 [NX Daemon Server] - 2025-04-28T18:30:48.834Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2025-04-29T17:33:59.044Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (sources)
+[NX Daemon Server] - 2025-04-29T17:33:59.050Z - [WATCHER]: Stopping the watcher for /Users/naveen/Desktop/ecommerce-angular_springboot/ecommerce (outputs)
+[NX Daemon Server] - 2025-04-29T17:33:59.063Z - Server stopped because: "10800000ms of inactivity"
